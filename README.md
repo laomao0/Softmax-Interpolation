@@ -11,6 +11,8 @@ Model weights are saved in ./ckpt
 
 Evaluation on Vimeo90K teset set: 35.92dB
 
-Difference with original paper, I compute the warped images using forward warp flow + backwarp image, refer to Line 158 in SoftSplatModel_v3.py
+Difference with original paper:
+1. I compute the warped images using forward warp flow + backwarp image, refer to Line 158 in SoftSplatModel_v3.py
+2. I use L1 loss for training
 
 
