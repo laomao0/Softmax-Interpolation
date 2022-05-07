@@ -1,1 +1,1 @@
-link:
+weights link: https://www.dropbox.com/s/pkoednpdieqwjrd/SoftSplatSamllBaseline_v3.pth?dl=0
